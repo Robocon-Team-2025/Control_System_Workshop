@@ -36,7 +36,7 @@ grid on;
 - Sanjif
 - Nick Wong
 
-##2ns
+## 2ns
 - Edmund
 - Affan
 - Damien
