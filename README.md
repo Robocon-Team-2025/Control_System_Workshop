@@ -29,3 +29,20 @@ ylabel('Motor Output');
 legend('System Response', 'ESS Error Line (1)');
 grid on;
 ```
+# Kahoot Winner
+## 1st
+- Khoo Kai Ze
+- Darshan Kumar
+- Sanjif
+- Nick Wong
+
+##2ns
+- Edmund
+- Affan
+- Damien
+- Fasih
+
+## 3nd
+- Lim Zhan Hung
+- Maha
+- Firdaus
